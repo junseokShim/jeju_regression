@@ -1,5 +1,8 @@
 # jeju_regression
 
+## 사용한 라이브러리
+- Autogluon
+- Pycaret
 
 ## 결과물
 
